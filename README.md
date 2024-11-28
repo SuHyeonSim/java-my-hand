@@ -45,6 +45,6 @@
 <br>
 
 ### 4. 결제
-![5](https://github.com/user-attachments/assets/e58dca61-3481-4b82-89cb-1d0a7b2c68c1)
+![5](https://github.com/user-attachments/assets/1850a472-30c5-4d0d-bd3a-22edd4453a70)
 
 - 아임포트 결제 API를 활용하여 실제 결제가 가능합니다.
