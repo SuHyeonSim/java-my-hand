@@ -38,7 +38,7 @@
 <br>
 
 ### 3. 주문서
-![4](https://github.com/user-attachments/assets/5f761f40-b1eb-4d0d-ad21-7dbb92081a12)
+![4](https://github.com/user-attachments/assets/b0665c6c-61e8-438e-91aa-6a5a66300a7e)
 
 - 주문자의 정보를 자동으로 입력합니다.
 - 사용자의 포인트를 조회하고, 포인트 사용이 가능합니다.
