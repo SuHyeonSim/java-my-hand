@@ -1,0 +1,62 @@
+@charset "UTF-8";
+.info_agree {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background: rgba(64, 137, 159, 0.5);
+}
+.container_agree {
+	background: #fff;
+    border-radius: 10px;
+    width: 800px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }    
+.title_agree {
+	margin-bottom: 20px;
+	color: rgba(64, 137, 159, 0.8);
+}
+.input_group_agree {
+	width: 340px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.label_agree {
+	color: rgba(64, 137, 159, 0.8);
+}
+.textbox{
+	width: 680px;
+	margin: 0 auto;
+	margin-top: 10px ;
+	margin-bottom: 10px ;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+	background-color: #f9f9f9;
+	overflow-y: scroll; 
+	max-height: 120px;         
+} 	
+.agree_buttons {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.button_agree {
+	margin-top: 20px;
+	width: 340px;
+	padding: 7px;
+	border: none;
+	border-radius: 5px;
+	background: rgba(64, 137, 159, 0.5);
+	color: #fff;
+	font-size: 16px;
+	transition: background 0.3s;
+}
+.button_agree:hover {
+	background: rgba(64, 137, 159, 0.8);
+}

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+    .mypage_container {
+        display: flex;
+        width: 100%;
+        border: line;
+    }
+    .mypage_sidebar {
+        background-color: #f8f9fa !important;
+        height: 100%;
+        position: relative;
+        border: line;
+        width : 240px
+    }
+    .mypage_sidebar ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    .mypage_sidebar ul h2 {
+        border: 0.5px solid rgba(64, 137, 159, 0.8);
+        color: #000000;
+        font-size: 30px;
+        text-align : center;
+    }
+    .mypage_sidebar ul li {
+        padding: 15px;
+        color: black; 
+        border-right: 0.5px solid rgba(64, 137, 159, 0.8);
+        border-bottom: 0.5px solid rgba(64, 137, 159, 0.8);
+        cursor: pointer;
+        transition: color 0.3s;
+        font-size : 18px;
+    }
+    .mypage_sidebar ul li:hover {
+        color: rgba(64, 137, 159, 0.8);
+    }
