@@ -155,7 +155,7 @@
                                 <label class="custom-control-label" for="order_check2">결제 전 주문정보를 확인하였으며 결제에 동의합니다.</label>
                             </div>
                             <div class="col-12 d-flex shopping-box">
-                      			<button id="check_module" type="button">결제하기</button>
+                      			<button class="ml-auto btn hvr-hover" id="check_module" type="button">결제하기</button>
     	        			</div>
                         </div>
                     </div>
